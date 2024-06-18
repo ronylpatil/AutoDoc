@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 autoDoc
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# AutoDoc
+automate project documentation
+>>>>>>> 77cafd0dc100767436f7559e3ced5fcfa6a623f6
